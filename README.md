@@ -33,9 +33,9 @@ Visualizations include:
 
 ## Model
 A Random Forest Classifier is used to train the model on the data. The model's accuracy is evaluated, and predictions are made for the likelihood of heart attacks. The trained model is saved using `joblib` for later use.
-
+In this training process i used three ways and they are Random forest,KNN and also logistic regression. This is a binary classification model .In this 3 models i got the same accuracy of 0.805
 ### User Input
 The program accepts user inputs for various health metrics and predicts whether the user is at high or low risk for a heart attack.
 
 
-  In this tarining process i used three ways and they are Random forest,KNN and also logistic regression. This is a binary classification model .I nthis 3 models i got the same accuracy of 0.805
+ 
