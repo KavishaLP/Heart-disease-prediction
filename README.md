@@ -38,4 +38,4 @@ A Random Forest Classifier is used to train the model on the data. The model's a
 The program accepts user inputs for various health metrics and predicts whether the user is at high or low risk for a heart attack.
 
 
-   git clone <repository_url>
+  In this tarining process i used three ways and they are Random forest,KNN and also logistic regression. This is a binary classification model .I nthis 3 models i got the same accuracy of 0.805
