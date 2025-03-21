@@ -38,4 +38,9 @@ In this training process i used three ways and they are Random forest,KNN and al
 The program accepts user inputs for various health metrics and predicts whether the user is at high or low risk for a heart attack.
 
 
+1}Feature selection
+2}compare models using confusion metrics
+3}Accuracy,recall,Precision,ROC
+
+
  
